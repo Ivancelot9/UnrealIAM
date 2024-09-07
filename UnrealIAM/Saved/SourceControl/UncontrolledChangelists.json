@@ -5,9 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal/UnrealIAM/UnrealIAM/Content/ThirdPerson/Maps/Practica1.umap",
 				"D:/Unreal/UnrealIAM/UnrealIAM/Content/ThirdPerson/Maps/NewMap1.umap",
-				"D:/Unreal/UnrealIAM/UnrealIAM/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/AmbientCG/Metal046B_1K-PNG_Displacement.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/AmbientCG/Metal046B_1K-PNG_NormalDX.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/M_BaseMaterial.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/M_BaseMaterial_Inst.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/ICE_Normal.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/M_Hielo.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/M_Fresnel.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/AmbientCG/Metal046B.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/AmbientCG/Metal046B_1K-PNG_Color_png.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/AmbientCG/Metal046B_1K-PNG_Metalness_png.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/AmbientCG/Metal046B_1K-PNG_NormalGL_png.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/AmbientCG/Metal046B_1K-PNG_Roughness_png.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/Materiales/T_PerlinNoise.uasset",
+				"D:/Unreal/UnrealIAM/UnrealIAM/Content/ThirdPerson/Maps/Practica1.umap"
 			]
 		}
 	]
