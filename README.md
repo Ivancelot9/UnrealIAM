@@ -36,4 +36,4 @@ Este proyecto se encuentra en fase de preproducción como parte de una asignatur
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/escape-subterraneo.git
+   git clone https://github.com/Ivancelot9/UnrealPracticas
